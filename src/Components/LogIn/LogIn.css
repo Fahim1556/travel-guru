@@ -1,0 +1,17 @@
+.navAncors1{
+    color: black;
+}
+.formSizing{
+    width: 500px!important;
+    margin: auto;
+    border: 1px solid gray;
+    padding: 40px;
+    border-radius: 4px;
+}
+.Forgot{
+   float: right;
+   color: orange;
+}
+.accountcreator{
+    text-align: center;
+}

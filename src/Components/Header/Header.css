@@ -1,0 +1,68 @@
+.backgroundImg{
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.753), rgba(0, 0, 0, 0.575)),
+    url(../../FakeData/Images/Rectangle1.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.logoSize{
+    width: 120.26px;
+    height: 56px;
+    /* position: relative;
+    top: 35px;
+    left: 100px; */
+}
+.Search{
+    width: 300px!important;
+    height: 40px!important;
+    
+    background-color: rgb(255, 255, 255, 0.2)!important;
+    border: 1px solid #FFFFFF!important;
+    box-sizing: border-box!important;
+    border-radius: 5px!important;
+    padding: 10px!important;
+    color: white!important;
+}
+li{
+    display: inline-table;
+
+} 
+li a{
+    
+    color: white;
+    padding: 10px 0 10px;
+    margin-left: 15px;
+    position: relative;
+    top: 48px;
+    right: 170px;
+    font-size: 16px;
+    font-weight: ;
+    transition: all 1s;
+}
+.logIn{
+    font-weight: 900;
+}
+
+.navAncors{
+    color: white!important;
+    
+}
+.navAncors:hover{
+    color: rgb(104, 104, 211)!important;
+}
+.leftSideColor{
+    margin-top: 100px;
+    width: 400px;
+    color: white;
+}
+.leftSideColor h1{
+    font-size: 50px;
+    font-weight: 100;
+
+    font-family: 'Anton', sans-serif;
+}
+.leftSideColor p{
+    color: gray;
+}

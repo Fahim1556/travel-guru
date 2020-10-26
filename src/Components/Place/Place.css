@@ -1,0 +1,18 @@
+.ContentSizing{
+    margin-top: 50px;
+}
+.poster{
+    width: 170px;
+    margin-right: 25px;
+    transition: all 1s ease-in-out;
+    border-radius: 20px;
+    
+}
+
+.title{
+    color: white;
+    position: relative;
+    padding-left: 10px;
+    bottom: 30px;
+    font-size: 20px;
+}
